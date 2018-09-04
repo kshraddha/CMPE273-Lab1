@@ -1,0 +1,9 @@
+ska01scl:lab1 skabade$ python3 http_call.py
+Tue, 04 Sep 2018 21:20:49 GMT
+Tue, 04 Sep 2018 21:20:50 GMT
+Tue, 04 Sep 2018 21:20:53 GMT
+
+ska01scl:lab1 skabade$ python3 http_async_call.py
+Tue, 04 Sep 2018 22:05:42 GMT
+Tue, 04 Sep 2018 22:05:42 GMT
+Tue, 04 Sep 2018 22:05:42 GMT
